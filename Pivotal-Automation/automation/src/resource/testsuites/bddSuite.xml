@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="Cucumber">
+
+    <test name="Login on Pivotal">
+
+        <classes>
+
+            <class name="com.bdd.RunTest"></class>
+
+        </classes>
+
+    </test>
+
+</suite>
